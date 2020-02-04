@@ -1,0 +1,39 @@
+{
+  "restodent": [
+    {
+      "name": "pizz hut",
+      "email": "vimal",
+      "rating": "9.0",
+      "address": "Noida Gr",
+      "id": 1
+    },
+    {
+      "id": 3,
+      "name": "momo",
+      "rating": "3.0",
+      "email": "momo@hotmail.com",
+      "address": "Noida"
+    },
+    {
+      "id": 5,
+      "name": "json-server",
+      "rating": "1.0",
+      "email": "vimal@gmail.com",
+      "address": "Noida"
+    },
+    {
+      "id": 6,
+      "name": "Bikano",
+      "rating": "5.0",
+      "email": "noidabbb@gmail.com",
+      "address": "Delhi2"
+    },
+    {
+      "name": "Roti Boti",
+      "rating": "8",
+      "email": "roti@gmail.com",
+      "address": "gaur city",
+      "id": 7
+    }
+  ]
+}
